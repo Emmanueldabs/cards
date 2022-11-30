@@ -1,0 +1,36 @@
+body{
+  background-image:url("https://cdn2.outdoorphotographer.com/gallery/7603/christoph.stopka_133813_711815_e0288c93f1_015a454250-christoph-stopka-double-rainbow-lightning.jpg");
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.link{
+  font-size: 50px;
+  font-family: cursive;
+  color: cornflowerblue;
+}
+.Image{
+  border-radius: 50px;
+  border-width: 5px;
+  border-color: dodgerblue;
+  border-style: groove;
+  padding: 5px;
+  height: 400px;
+  width: 800px;
+}
+.Card-title{
+  font-size: 100px;
+  color: black;
+  font-family: sans-serif;
+}
+.Card_category{
+  font-size:100px ;
+  color: rgb(255, 255, 255);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.Cards{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
